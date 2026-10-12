@@ -1,4 +1,6 @@
-## Hi there 👋
+#GitHub Activity Note
+
+#This GitHub is a collection of my personal or team projects. Due to my local configuration, most of the commits to my projects are done on a different GitHub account, SpectralThe1. Those commits represent my own work.
 
 <!--
 **lucaslong-png/lucaslong-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
